@@ -7,11 +7,11 @@ Chefies aims to minimize food waste while maximizing nutritional intake among ec
 
 ### https://chefies.app/
 
-### Theme: Health Innovation: Empowering Vulnerable Communities for Health and Well-being
+## Theme: Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
-### Team ID : C241-PS308
+## Team ID : C241-PS308
 
-### Team Members
+## Team Members
 1. (ML) M010D4KY3134 – Ikhlasul Akmal Hanif – Universitas Indonesia - [Active]
 2. (ML) M006D4KY1887 – Yosia Pangondian – Universitas Brawijaya - [Active]
 3. (ML) M006D4KY1530 – Stanislaus Frans Bernado – Universitas Brawijaya - [Active]
